@@ -1,0 +1,6 @@
+*.sqlite3
+*.pyc
+.vscode
+__pycache__
+venv
+*.code-workspace
